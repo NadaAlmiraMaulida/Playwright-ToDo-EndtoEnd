@@ -106,4 +106,4 @@ View or download the detailed HTML report here:
 
 **Nada Almira Maulida**  
 
-QA Manual & Automation Enthusiast 🚀
+QA Manual & Automation Enthusiast 
