@@ -48,33 +48,31 @@ This automation project covers:
 
 
 ---
-
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Install dependencies
 
-
+```bash
 npm install
-
+```
 
 ### 2️⃣ Run tests (headless mode)
 
-
+```bash
 npx playwright test
-
+```
 
 ### 3️⃣ Run tests in headed mode
 
-
+```bash
 npx playwright test --headed
-
+```
 
 ### 4️⃣ Open HTML Report
 
-
+```bash
 npx playwright show-report
-
-
+```
 ---
 
 ## 🧪 Sample Test Scenario
