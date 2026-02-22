@@ -1,4 +1,4 @@
-# Playwright E2E Automation – TodoMVC
+# Playwright E2E Automation – TodoMVC Mini Project
 
 This project demonstrates a structured End-to-End (E2E) automation implementation using **Playwright** to test the TodoMVC React application.
 
